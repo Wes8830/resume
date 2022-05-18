@@ -9,7 +9,7 @@
     </div>
     <div class="right"></div>
     <div class="left"></div>
-    <div class="center">1736 Beacon Street • Brookline, MA 02445 • 781-640-8486 • wes.vesprini@gmail.com</div>
+    <div class="center" id="address">1736 Beacon Street • Brookline, MA 02445 • 781-640-8486 • wes.vesprini@gmail.com</div>
     <div class="right"></div>
     <div class="left"></div>
     <div class="center"><a href="https://www.linkedin.com/in/wesley-vesprini-05bb1823/"><i class="fa fa-linkedin" style="font-size: 18px"></i></a>
@@ -19,12 +19,12 @@
 
 ---
 
-# TECHNICAL SKILLS
+## TECHNICAL SKILLS
 - **Frameworks & Methodologies:** Agile, Scrum, Scrumban, Prioritization, Delegation
 - **Technical Skills:** Jira, Github, Git, FactSet APIs, Fiddler, Postman, VS Code, Notepad++, Figma, Mural, Excel/GoogleSheets
 - **Languages:** Familiarity with Django, Flask, Python, C, PostgreSQL, SQLite, Javascript, HTML, CSS, Markdown, JSON, XML
 
-# KEY ACHIEVEMENTS
+## KEY ACHIEVEMENTS
 - Led daily testing efforts and owned development items originating necessary for the premier launch of the entire Front Office product suite
 - Planned and Managed efforts for the integration and assistance of developing 15+ Factset APIs/Services for use in the Portfolio Life Cycle
 - Successful integration and development of various data fetch sources providing robust data coverage for our end users
@@ -33,8 +33,8 @@
 
 
 
-# EXPERIENCE
-### August 2018 - Present |	**FactSet Research Systems** | **Product Manager, Analytics and Trading** | Boston, MA	
+## EXPERIENCE
+#### August 2018 - Present |	**FactSet Research Systems** | **Product Manager, Analytics and Trading** | Boston, MA	
 	
 - Manage the prioritization and development of the roadmap for real-time portfolio analytics products and services using agile methodologies
 - Build client relationships to spotlight partners for new feature development
@@ -44,7 +44,7 @@
 - Heavy focus on product performance, efficiency, and ux by recognizing key areas of improvement for engineering to address
 
 
-### February 2015 - August 2018 | **FactSet Research Systems** | **Product Developer, Portfolio Analytics** | New York, NY	
+#### February 2015 - August 2018 | **FactSet Research Systems** | **Product Developer, Portfolio Analytics** | New York, NY	
 	
 - Led team in troubleshooting efforts to ensure high impact client issues were resolved in a timely manner
 - Worked with design, engineering and QA departments to identify roadblocks through different stages of the development lifecycle
@@ -53,7 +53,7 @@
 - Assist with Quality Assurance efforts to further accelerate time to market for new product enhancements
 - Communicated latest product feature release dates to sales and consulting
 
-### November 2012 - February 2015 | **FactSet Research Systems** | **Client Service Specialist, Global Web Products** | New York, NY
+#### November 2012 - February 2015 | **FactSet Research Systems** | **Client Service Specialist, Global Web Products** | New York, NY
 
 - Developed a report to identify outlying users abusing the news product’s usage policy
 - Supported sales efforts, built account relationships by traveling to accounts for user training
@@ -62,11 +62,11 @@
 
 
 
-# EDUCATION & CERTIFICATES
+## EDUCATION & CERTIFICATES
 **Trinity College, College of Arts and Sciences, Class of  2011** | Hartford, CT
 - BS in Economics, Minor in Models and Data 
 
-## Certificates
+### Certificates
 - January 2022 	    [HarvardX Professional Certificate Computer Science for Web Programming](https://credentials.edx.org/credentials/f8953d993a814ed1b98c214134a51add/)
 - January 2022      [HarvardX Verified Certificate for CS50W: CS50's Web Programming with Python and JavaScript](https://courses.edx.org/certificates/625b5a07236944f686b43a7ca8df9b17)
 - January 2021 	    [HarvardX Verified Certificate for CS50 Introduction to Computer Science](https://courses.edx.org/certificates/44f08e5f4d5645f6baf08dc0c94f8cda)

@@ -1,13 +1,10 @@
 body {
     margin:auto; 
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width:90%;
+    width:60%;
     border: 1px solid black;
     padding: 10px;
     background-color:white;
-    color:#4b4b4b;
-    
+    color:#4b4b4b
 }
 
 h1 {
@@ -16,50 +13,22 @@ h1 {
 
 .wrapper {
     display: grid;
-    height: 90px;
+    height: 125px;
     grid-template-columns: 10% 80% 10%;
     text-align: center;
 }
 
-/* .header {
+.header {
     height: 50%;
-} */
+}
 
 #nameplate {
     height: 100%;
     border-bottom-width: 0px;
 }
 
-#address {
-    font-size: 12px;
-}
-
-.right, .left {
-    height: 10px;
-}
-
-h1, h2 {
-    color: #00447c
-}
-
 h1 {
-    font-size: 20px;
-}
-
-h2 {
-    font-size: 14px;
-}
-
-#certificates {
-    font-size: 13px;
-}
-
-h4 {
-    font-size: 12px;
-}
-
-li {
-    font-size: 11px;
+    color: #00447c
 }
 
 code {
